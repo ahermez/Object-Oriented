@@ -1,0 +1,27 @@
+{
+  "name": "object-oriented",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahermez/Object-Oriented.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahermez/Object-Oriented/issues"
+  },
+  "homepage": "https://github.com/ahermez/Object-Oriented#readme", 
+  "dependencies": {
+    "inquirer": "9.2.9",
+    "jest": "29.6.2"
+  }
+}
